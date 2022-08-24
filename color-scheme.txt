@@ -1,0 +1,40 @@
+color0:  #17181c -- black
+color8:  #7c7d87 -- grey
+
+color1:  #be2720 -- red
+color9:  #e46c67 -- light red
+
+color2:  #67c85d -- green
+color10: #94dc8b -- light green
+
+color3:  #cecd6b -- yellow
+color11: #e9e9a3 -- light yellow
+
+color4:  #237de1 -- blue
+color12: #7cb1ec -- light blue
+
+color5:  #936bc8 -- magenta
+color13: #b99be2 -- light magenta
+
+color6:  #29adc2 -- cyan
+color14: #7cd3e0 -- light cyan
+
+color7:  #cecfdf -- white
+color15: #cecfdf -- light white (lol)
+
+-- style guide (i guess) --
+-- this is what i use for my rice --
+
+background: #17181c
+foreground: #cecfdf
+
+accents: #7cb1ec, #e46c67, #b99be2 -- any light color really
+
+window borders: #b99be2
+
+good/connected: #94dc8b
+bad/disconnected: #e46c67
+
+cursor color: #7cd3e0
+
+off/disabled: #7c7d87
